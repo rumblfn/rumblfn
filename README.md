@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/rumbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rumbl" height="30" width="40" /></a>
-<a href="https://discord.gg/Sham#0243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sham#0243" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/490559410935037962/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sham#0243" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
