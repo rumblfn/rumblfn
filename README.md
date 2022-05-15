@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shamil</h1>
 <h3 align="center">A fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumblfn" alt="rumblfn" /></a> </p>
-
 - 📫 How to reach me **toshamilgis@gmail.com**
 
 <h3 align="left">Connect with me <a href="https://discord.gg/490559410935037962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="490559410935037962" height="30" width="40" /></a></h3>
