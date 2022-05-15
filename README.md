@@ -10,5 +10,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumblfn&show_icons=true&locale=en" alt="rumblfn" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumblfn&" alt="rumblfn" /></p>
+<p width="100px" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumblfn&" alt="rumblfn" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rumblfn&label=Profile%20views&color=0e75b6&style=flat" alt="rumblfn" /> </p>
