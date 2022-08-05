@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamil</h1>
 <h3 align="center">A fullstack developer</h3>
 
-📫 How to reach me **toshamilgis@gmail.com**
+📫 How to reach me **toshamilgis@gmail.com** <br>
 <a href="https://discord.gg/490559410935037962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="490559410935037962" height="30" width="40" /></a> **sham#0001**
 
 <h3 align="left">Skills</h3>
