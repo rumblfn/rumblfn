@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamil</h1>
-<h3 align="center">A fullstack developer</h3>
+<h1 align="center">Hi, I'm Shamil</h1>
 
 📫 How to reach me <a href="https://rumblfn.vercel.app" target="blank">Profile</a>
 
