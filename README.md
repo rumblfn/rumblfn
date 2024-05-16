@@ -4,17 +4,8 @@
 
 # Full Stack Developer
 
-## Интересы
-- LeetCode
-- Математика
-- Книги
-- Музыка
-- Аниме
-
-## Навыки
-- Kubernetes
-- TypeScript
-- C++
+LeetCode, mathematics, books, music, anime <br>
+TypeScript, C++, Kubernetes <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
